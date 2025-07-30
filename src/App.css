@@ -1,0 +1,12 @@
+ #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  justify-content: center;
+  /* background-color: aquamarine; */
+   background: linear-gradient(to right, #abaef5, #b7bbff);
+   border-radius: 20px;
+}
+
+
